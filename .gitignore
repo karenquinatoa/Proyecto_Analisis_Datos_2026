@@ -216,5 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+<<<<<<< HEAD
 #*.csv
 #*.xlsx
+=======
+*.csv
+*.xlsx
+>>>>>>> e019d829d0db41b0d3ea53fdaf40a242004adff1
